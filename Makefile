@@ -14,3 +14,6 @@ build:
 
 run:
 	docker run --rm -it -p 8080:8080 krol/node-hello:$(BRANCH_NAME) 
+
+push:
+	docker push krol/node-hello:$(BRANCH_NAME)
