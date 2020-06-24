@@ -1,5 +1,5 @@
 {
-  "name": "timestamp",
+  "name": "node-hello",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.16.4"
   }
 }
